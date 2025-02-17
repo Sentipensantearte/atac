@@ -10,7 +10,6 @@ body, div, h1, h2, h3, h4, h5, h6, p, .contenedor {
 
 body {
     background-color:  #74064C;
-    background-image: url(../img/mosaicof.png);
     font-family: "Open Sans", serif;
     color: #32455D;
 }
@@ -33,15 +32,3 @@ h1, h2 {
 h1, h2,h3, h4, h5, h6 {
     font-family: "Quantico", serif;
 }
-
-/*
-.fakeodio {
-    background-color: #C3D3D5 ;
-}
-.elecciones {
-    background-color: #C7C3BD;
-}
-.guiapasos {
-    background-color: #C3D3D5 ;
-}
-    */

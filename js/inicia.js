@@ -14,3 +14,10 @@ $(document).ready(function(){
 var instance = M.Collapsible.init(elem, {
   accordion: false
 });
+
+$(document).ready(function() {
+  $('input#input_text, textarea#textarea2').characterCounter();
+});
+
+$('#textarea1').val('New Text');
+  M.textareaAutoResize($('#textarea1'));
